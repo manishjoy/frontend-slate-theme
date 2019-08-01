@@ -11,13 +11,7 @@ ________________________________________________________________________________
 ## Installation:
 1. Go to Magento2 root folder
 
-2. Enter following commands to install module:
-
-    ```bash
-    composer config repositories.magentoslate git https://github.com/manishjoy/frontend-slate-theme.git
-    composer require magento/theme-frontend-slate:1.0.0
-    ```
-   Wait while dependencies are updated.
+2. Create a directory **app/design/frontend/Magento/slate**
 
 3. Enter following commands to enable module:
 
